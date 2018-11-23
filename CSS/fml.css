@@ -1,0 +1,42 @@
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #FFE4C4;
+}
+
+/* Navbar links */
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+div.transbox {
+  margin: 50px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  opacity: 0.5;
+  filter: alpha(opacity=60);
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+.footer{
+	
+  padding: 180px;	
+}
